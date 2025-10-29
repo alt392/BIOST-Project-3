@@ -1,6 +1,6 @@
 ## About
 
-**Analyzed a large randomized controlled trial aimed to determine the impact of the use of acupunture therpay on headaches. These measures were assessed in three different time points: at randomization, 3 months post-randomization, and 1 year post-randomization. The data was obtained from [Acupunture Dataset](http://www.causeweb.org/tshs/acupuncture/)**
+**Analyzed a large randomized controlled trial aimed to determine the impact of acupuncture therapy on headache severity. These measures were assessed in three different time points: at randomization, 3 months post-randomization, and 1 year post-randomization. The data was obtained from [Acupunture Dataset](http://www.causeweb.org/tshs/acupuncture/)**
 
 [Click here to view my statistical summaries and graphs](https://alt392.github.io/BIOST-Project-3/M3-Lab.html)
 
